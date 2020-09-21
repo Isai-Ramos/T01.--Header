@@ -1,3 +1,10 @@
 body{
+    color: white;
     font-family: 'Calibri';
+    background-image: url(https://lh3.googleusercontent.com/proxy/sAYF7F6wABthWDmuSw_crTvIDOGwDWChyVkrqTMndU_gj0ipGYPlufLFnoLoL0TR6CNgll6hB_dsGpgjVpx22-8YsxmxMdDbekY);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.conte{
+    color: white;
 }
